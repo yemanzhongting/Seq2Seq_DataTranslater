@@ -1,0 +1,200 @@
+物流速递 住宅区 美容美发店 公司 中餐厅 诊所 政府机关 福特特约维修 临街院门 交通地名	Tree Plant House Window Car Land Street Billboard Tire
+住宅区 中餐厅 美容美发店 公司 诊所 临街院门 福特特约维修 交通地名 生活服务场所 政府机关	Tree House Plant Window Footwear Land Human Wheel Car Street
+学校 中餐厅 美容美发店 生活服务场所 公司 餐饮相关场所 政府机关 培训机构 政府及社会团体相关 住宅区	Tree Window House Plant Car Building Palm Wheel Land Van
+中餐厅 学校 公司 政府及社会团体相关 餐饮相关场所 培训机构 生活服务场所 美容美发店 住宅区 驾校	Tree Window House Building Car Train Plant Wheel Boat
+中餐厅 学校 公司 政府及社会团体相关 餐饮相关场所 旅馆招待所 培训机构 生活服务场所 住宅区 政府机关	Tree Window House Plant Car Wheel
+中餐厅 学校 生活服务场所 公司 旅馆招待所 政府及社会团体相关 培训机构 餐饮相关场所 住宅区 政府机关	Tree Window House Plant Car Building Person Wheel Land
+中餐厅 学校 生活服务场所 旅馆招待所 政府及社会团体相关 公司 培训机构 住宅区 政府机关 临街院门	Tree House Window Plant Car Wheel
+中餐厅 学校 生活服务场所 临街院门 旅馆招待所 培训机构 住宅区 政府机关 政府及社会团体相关 驾校	Tree Window House Plant Street Car Building Wheel Land Palm
+中餐厅 学校 生活服务场所 临街院门 培训机构 旅馆招待所 住宅区 美容美发店 政府及社会团体相关 政府机关	Tree Window House Plant Car Building Palm Skyscraper Land Wheel
+中餐厅 临街院门 生活服务场所 学校 公司 旅馆招待所 培训机构 住宅区 宾馆酒店 美容美发店	Tree Window House Wheel Plant Truck Person Clothing Land Tire
+中餐厅 临街院门 生活服务场所 学校 住宅区 公司 旅馆招待所 住宿服务相关 宾馆酒店 快餐厅	Tree House Wheel Plant Person Car Truck Land Window Train
+中餐厅 临街院门 住宅区 生活服务场所 学校 公司 住宿服务相关 宾馆酒店 驾校 旅馆招待所	Tree Wheel House Window Car Building Street Truck Land Plant
+临街院门 中餐厅 生活服务场所 住宅区 学校 公司 住宿服务相关 驾校 宾馆酒店 快餐厅	Tree Plant Window Train Wheel Car Land Building Person House
+生活服务场所 物流速递 住宅区 培训机构 汽车综合维修 学校 中餐厅 临街院门 公交车站 休闲场所	Tree Window Building Car Wheel House Street Boat Plant Skyscraper
+生活服务场所 物流速递 住宅区 培训机构 汽车综合维修 学校 中餐厅 临街院门 公交车站 休闲场所	Tree Window Building Car Wheel House Street Boat Plant Skyscraper
+生活服务场所 物流速递 住宅区 培训机构 汽车综合维修 中餐厅 公交车站 驾校 休闲场所 运动场馆	Tree Skyscraper Boat Billboard Building Train Window Scoreboard Tower
+生活服务场所 住宅区 中餐厅 物流速递 培训机构 汽车养护/装饰 驾校 娱乐场所 加油站 汽车配件销售	Tree Billboard Boat House Building Person Footwear Wheel Skyscraper
+餐饮相关场所 中餐厅 生活服务场所 住宿服务相关 旅馆招待所 娱乐场所 美容美发店 快餐厅 宾馆酒店 停车场	Tree Window Street Car Flower Person Wheel Building Skyscraper Plant
+临街院门 生活服务场所 停车场 学校 娱乐场所 中餐厅 洗衣店 中介机构 住宅区 公司	Tree Window Building Street Car Plant Land Skyscraper House Boat
+生活服务场所 培训机构 美容美发店 医药保健销售店 住宅区 中餐厅 汽车服务相关 运动场馆 汽车养护/装饰 娱乐场所	Tree Window Building Car Wheel Person Land House Bus Street
+生活服务场所 医药保健销售店 培训机构 住宅区 电讯营业厅 中餐厅 美容美发店 彩票彩券销售点 运动场馆 临街院门	Window Tree Building Skyscraper Person Plant Land Train Car Bicycle
+中餐厅 美容美发店 洗浴推拿场所 娱乐场所 餐饮相关场所 生活服务场所 彩票彩券销售点 自动提款机 住宅区 维修站点	Tree Window House Plant Building Wheel Person Car Train Land
+中餐厅 美容美发店 培训机构 生活服务场所 娱乐场所 餐饮相关场所 金融保险服务机构 洗浴推拿场所 自动提款机 公司	Tree Window Building Car House Wheel Person Train Plant Footwear
+美容美发店 中餐厅 生活服务场所 培训机构 金融保险服务机构 住宅区 餐饮相关场所 洗浴推拿场所 临街院门 娱乐场所	Tree Car Plant Window Street House Wheel Building Truck Land
+美容美发店 生活服务场所 培训机构 住宅区 公司 停车场 金融保险服务机构 中介机构 临街院门 公交车站	Tree Window House Building Car Plant Wheel Land Person Airplane
+美容美发店 糕饼店 中介机构 停车场 中餐厅 自动提款机 门牌信息 生活服务场所 医药保健销售店 临街院门	Tree Building Window Wheel Person Footwear Car Street Bus Chair
+中餐厅 美容美发店 快餐厅 中介机构 生活服务场所 医药保健销售店 停车场 餐饮相关场所 自动提款机 门牌信息	Tree Building Window Car Wheel Billboard Land Person House
+中餐厅 快餐厅 美容美发店 生活服务场所 中介机构 停车场 餐饮相关场所 自动提款机 医药保健销售店 洗衣店	Building Tree Window Car Wheel Billboard House Person Street Boat
+中餐厅 生活服务场所 临街院门 洗浴推拿场所 汽车服务相关 美容美发店 娱乐场所 汽车配件销售 汽车养护/装饰 快餐厅	Window Building Tree Car Plant Wheel Person House Footwear Land
+中餐厅 生活服务场所 临街院门 医药保健销售店 美容美发店 住宅区 洗浴推拿场所 彩票彩券销售点 快餐厅 娱乐场所	Window Building Tree Car Wheel Land Footwear Person Vehicle Train
+中餐厅 生活服务场所 临街院门 医药保健销售店 美容美发店 住宅区 洗浴推拿场所 彩票彩券销售点 快餐厅 娱乐场所	Window Building Tree Car Wheel Land Footwear Person Vehicle Train
+中餐厅 医药保健销售店 生活服务场所 临街院门 美容美发店 餐饮相关场所 住宅区 娱乐场所 商务住宅相关 诊所	Tree Window Building Car Wheel Plant Land Person Street Bus
+生活服务场所 中餐厅 住宅区 临街院门 娱乐场所 医药保健销售店 美容美发店 中介机构 彩票彩券销售点 餐饮相关场所	Tree Window Building Skyscraper Car Wheel Truck Land House
+生活服务场所 临街院门 彩票彩券销售点 娱乐场所 学校 美容美发店 中餐厅 停车场 中介机构 洗衣店	Tree Window Skyscraper House Street Car Building Plant Land Clothing
+临街院门 生活服务场所 停车场 旅馆招待所 学校 中餐厅 洗衣店 娱乐场所 住宿服务相关 科教文化场所	Tree Window Car Wheel Land Street Skyscraper Building Plant Vehicle
+餐饮相关场所 旅馆招待所 中餐厅 住宿服务相关 生活服务场所 快餐厅 美容美发店 娱乐场所 宾馆酒店 停车场	Tree Window Building Car Wheel Person Skyscraper Street Footwear Plant
+生活服务场所 中餐厅 娱乐场所 培训机构 运动场馆 汽车养护/装饰 旅馆招待所 餐饮相关场所 物流速递 冷饮店	Tree Street Building Person Car Plant Wheel Land Footwear Skyscraper
+生活服务场所 物流速递 学校 培训机构 汽车综合维修 临街院门 快餐厅 中餐厅 住宅区 公交车站	Tree House Street Car Wheel Building Window Person Skyscraper Plant
+生活服务场所 物流速递 学校 培训机构 汽车综合维修 临街院门 快餐厅 中餐厅 公交车站 运动场馆	Tree Car Wheel Window Building Street House Land Boat Vehicle
+生活服务场所 物流速递 学校 培训机构 汽车综合维修 临街院门 中餐厅 公交车站 快餐厅 建筑物门	Tree Car Street Wheel Window House Airplane Building Person Skyscraper
+生活服务场所 物流速递 学校 培训机构 汽车综合维修 临街院门 住宅区 公交车站 中餐厅 快餐厅	Tree Street Person Car Wheel Footwear Building Skyscraper Land House
+学校 住宅区 生活服务场所 中餐厅 冷饮店 临街院门 洗浴推拿场所 物流速递 糕饼店 美容美发店	Tree Window Plant Street Building Wheel Car Skyscraper House Train
+学校 住宅区 生活服务场所 中餐厅 临街院门 物流速递 洗浴推拿场所 冷饮店 糕饼店 美容美发店	Tree Window Street Car House Building Wheel Skyscraper Bird Train
+住宅区 临街院门 公司 生活服务场所 物流速递 驾校 中餐厅 汽车综合维修 福特特约维修 公交车站	Tree Plant House Window Street Wheel Train Car Tent
+临街院门 中餐厅 住宅区 生活服务场所 学校 公司 快餐厅 旅馆招待所 餐饮相关场所 住宿服务相关	Tree Plant House Window Car Wheel Land Person Skyscraper Tire
+中餐厅 学校 生活服务场所 临街院门 培训机构 住宅区 旅馆招待所 物流速递 政府机关 医药保健销售店	Window Tree Plant House Building Car Wheel Vehicle Boat Train
+中餐厅 学校 生活服务场所 临街院门 培训机构 住宅区 旅馆招待所 物流速递 政府机关 医药保健销售店	Window Tree Plant House Building Car Wheel Vehicle Boat Train
+中餐厅 学校 美容美发店 公司 生活服务场所 餐饮相关场所 政府机关 旅馆招待所 培训机构 政府及社会团体相关	Tree Window Plant House Car Building Train Land Wheel Tower
+住宅区 公司 中餐厅 美容美发店 诊所 临街院门 福特特约维修 交通地名 政府机关 餐饮相关场所	Tree Window House Plant Door Car Flag Flower Porch Building
+住宅区 公司 中餐厅 美容美发店 诊所 临街院门 福特特约维修 交通地名 政府机关 餐饮相关场所	Tree Plant Window House Car Building Flowerpot Flower
+住宅区 中餐厅 美容美发店 公司 学校 诊所 临街院门 福特特约维修 交通地名 政府机关	Tree House Plant Window Street Flower
+物流速递 住宅区 政府机关 美容美发店 生活服务场所 中餐厅 诊所 公司 福特特约维修 临街院门	Window Tree Building Person House Wheel Billboard Footwear Poster Land
+物流速递 住宅区 政府机关 美容美发店 生活服务场所 诊所 中餐厅 福特特约维修 公司 临街院门	Window Tree House Building Door Footwear Person Car Fireplace Billboard
+物流速递 住宅区 政府机关 美容美发店 生活服务场所 诊所 中餐厅 福特特约维修 公司 交通地名	Tree Window House Plant Clothing Footwear Building
+物流速递 住宅区 政府机关 美容美发店 生活服务场所 诊所 中餐厅 临街院门 公司 交通地名	Tree Window House Plant Building
+物流速递 住宅区 政府机关 美容美发店 生活服务场所 诊所 公司 中餐厅 交通地名 临街院门	Tree Plant House Window Wheel Tower Boat Land
+中餐厅 生活服务场所 政府机关 住宅区 临街院门 公交车站 物流速递 美容美发店 农林牧渔基地 停车场	Tree Plant Building Street House Window Train Palm Clothing
+中餐厅 生活服务场所 政府机关 住宅区 临街院门 公交车站 物流速递 美容美发店 农林牧渔基地 停车场	Tree Street House Window Building Plant Car Train Land Tower
+中餐厅 生活服务场所 政府机关 住宅区 公交车站 物流速递 交通服务相关 美容美发店 临街院门 停车场	Tree Plant Street Palm Car Land Vehicle Train Wheel Building
+中餐厅 生活服务场所 政府机关 公司 住宅区 公交车站 交通服务相关 美容美发店 物流速递 培训机构	Window Tree Skyscraper Car House Plant Building
+中餐厅 住宅区 公交车站 公司 生活服务场所 政府机关 交通服务相关 美容美发店 物流速递 培训机构	Window Tree Building Skyscraper Car Wheel Truck Land Plant Tire
+中餐厅 住宅区 公司 公交车站 生活服务场所 交通服务相关 物流速递 美容美发店 政府机关 餐饮相关场所	Window Tree Building Plant House Skyscraper Street Car Wheel
+中餐厅 住宅区 生活服务场所 公交车站 公司 洗浴推拿场所 物流速递 快餐厅 美容美发店 餐饮相关场所	Tree Window Skyscraper Building Plant Street Billboard Tower
+生活服务场所 洗浴推拿场所 中餐厅 住宅区 公交车站 公司 美容美发店 物流速递 快餐厅 医药保健销售店	Tree Street Skyscraper Building Plant Window Billboard Car Land House
+洗浴推拿场所 中餐厅 生活服务场所 宾馆酒店 美容美发店 物流速递 住宅区 餐饮相关场所 诊所 快餐厅	Tree Plant Window Street House Building Skyscraper Car Land Train
+洗浴推拿场所 中餐厅 宾馆酒店 生活服务场所 美容美发店 医药保健销售店 快餐厅 物流速递 学校 临街院门	Tree Window Car Building Wheel Skyscraper Street Flower Van Land
+洗浴推拿场所 中餐厅 宾馆酒店 美容美发店 生活服务场所 医药保健销售店 快餐厅 物流速递 临街院门 学校	Tree Building Window Skyscraper Car Wheel Plant Land Person Street
+洗浴推拿场所 中餐厅 宾馆酒店 医药保健销售店 美容美发店 生活服务场所 物流速递 快餐厅 学校 临街院门	Window Building Tree Car Skyscraper Land Plant Wheel Street Boat
+洗浴推拿场所 中餐厅 宾馆酒店 医药保健销售店 美容美发店 快餐厅 生活服务场所 物流速递 学校 培训机构	Window Building Tree Car Skyscraper Wheel Street Boat Land Vehicle
+洗浴推拿场所 生活服务场所 住宅区 美容美发店 中餐厅 临街院门 农林牧渔基地 住宿服务相关 培训机构 餐饮相关场所	Tree Window Building Skyscraper Car Wheel Plant House Street
+生活服务场所 洗浴推拿场所 住宅区 美容美发店 中餐厅 临街院门 住宿服务相关 农林牧渔基地 培训机构 餐饮相关场所	Tree Skyscraper Window Plant Building Wheel Car Land Street Person
+住宅区 生活服务场所 洗浴推拿场所 美容美发店 临街院门 中餐厅 住宿服务相关 农林牧渔基地 培训机构 餐饮相关场所	Window Tree Building Car Wheel Plant Skyscraper Van Person Street
+住宅区 公司 临街院门 生活服务场所 农林牧渔基地 美容美发店 诊所 公交车站 物流速递 学校	Tree Skyscraper Plant Building Street Wheel House Car Tire Train
+住宅区 公司 临街院门 生活服务场所 农林牧渔基地 汽车配件销售 美容美发店 诊所 公交车站 物流速递	Tree Skyscraper Street Building Wheel Plant Car House Footwear Tower
+公司 住宅区 临街院门 农林牧渔基地 中餐厅 汽车配件销售 生活服务场所 公交车站 物流速递 公共厕所	Tree Street Plant House Skyscraper Building Van Car Wheel Bus
+公司 中餐厅 生活服务场所 物流速递 家居建材市场 农林牧渔基地 住宅区 宾馆酒店 专卖店 娱乐场所	Tree Boat Building Plant Street Window House Car Land Palm
+公司 中餐厅 物流速递 农林牧渔基地 家居建材市场 生活服务场所 临街院门 住宅区 宾馆酒店 大众特约销售	Tree Street Car Plant Wheel Train House Window Land Building
+公司 农林牧渔基地 临街院门 住宅区 汽车配件销售 生活服务场所 诊所 政府机关 美容美发店 中餐厅	Tree Wheel Building Plant Car Truck Street Train Land Boat
+公司 临街院门 农林牧渔基地 产业园区 生活服务场所 政府机关 住宅区 加油站 公共厕所 汽车配件销售	Tree Window Wheel Car Building Truck Street Boat Land Bus
+公司 农林牧渔基地 临街院门 产业园区 生活服务场所 政府机关 住宅区 福特特约维修 公交车站 物流速递	Tree Wheel Car Building Truck Street Window Land House
+公司 农林牧渔基地 临街院门 产业园区 生活服务场所 政府机关 住宅区 福特特约维修 公交车站 物流速递	Tree Wheel Car Building Truck Street Window Land House
+农林牧渔基地 公司 临街院门 产业园区 生活服务场所 政府机关 工厂 福特特约维修 公交车站 物流速递	Tree Wheel House Window Truck Car Tire Train Land
+农林牧渔基地 公司 临街院门 产业园区 生活服务场所 住宅区 工厂 公交车站 物流速递 福特特约维修	Tree House Car Window Wheel Plant Bus
+农林牧渔基地 公司 临街院门 产业园区 生活服务场所 住宅区 公交车站 停车场 物流速递 福特特约维修	Tree House Wheel Train Truck Building
+农林牧渔基地 临街院门 住宅区 公司 生活服务场所 产业园区 物流速递 公交车站 停车场 福特特约维修	Tree Window Building Plant Car House Land Wheel
+农林牧渔基地 临街院门 住宅区 公司 生活服务场所 停车场 商务住宅相关 公交车站 物流速递 产业园区	Tree Car House Wheel Vehicle Truck Land Building Window
+农林牧渔基地 临街院门 住宅区 公司 生活服务场所 停车场 公交车站 商务住宅相关 物流速递 产业园区	Tree Window Car House Wheel Building Vehicle Street Skyscraper Plant
+农林牧渔基地 临街院门 住宅区 公司 停车场 生活服务场所 公交车站 物流速递 商务住宅相关 楼宇	Tree Window Plant House Table Porch
+农林牧渔基地 临街院门 住宅区 公司 生活服务场所 停车场 公交车站 物流速递 商务住宅相关 楼宇	Tree Plant House Window Skyscraper
+公司 中餐厅 物流速递 生活服务场所 家居建材市场 农林牧渔基地 住宅区 宾馆酒店 临街院门 彩票彩券销售点	Tree Street Train Plant Wheel Boat Building Car House Person
+洗浴推拿场所 中餐厅 美容美发店 宾馆酒店 生活服务场所 医药保健销售店 快餐厅 物流速递 诊所 学校	Window Tree Building Skyscraper Street Plant Car Wheel Land Traffic
+中餐厅 生活服务场所 住宅区 政府机关 公司 物流速递 公交车站 交通服务相关 美容美发店 汽车服务相关	Tree Plant Window Skyscraper House Street Building Palm Castle
+中餐厅 生活服务场所 住宅区 政府机关 公司 物流速递 公交车站 交通服务相关 美容美发店 汽车服务相关	Tree Plant Window Skyscraper House Street Building Palm Castle
+中餐厅 生活服务场所 政府机关 住宅区 公交车站 物流速递 交通服务相关 美容美发店 临街院门 公司	Tree Plant Street Skyscraper Building Train Car Land
+中餐厅 生活服务场所 政府机关 住宅区 公交车站 物流速递 交通服务相关 美容美发店 临街院门 停车场	Tree Plant Street Skyscraper Building House Land Car
+中餐厅 生活服务场所 政府机关 住宅区 公交车站 物流速递 交通服务相关 美容美发店 临街院门 停车场	Tree Plant Street Train Skyscraper Building Bird
+中餐厅 生活服务场所 政府机关 住宅区 公交车站 物流速递 交通服务相关 美容美发店 临街院门 停车场	Tree Plant Street Building Land Car Window Train Boat
+中餐厅 生活服务场所 政府机关 住宅区 临街院门 公交车站 物流速递 美容美发店 农林牧渔基地 停车场	Tree Street Window Building House Plant Land Car Boat Footwear
+物流速递 生活服务场所 停车场 中餐厅 农林牧渔基地 临街院门 公司 住宅区 大众特约销售 交通地名	Tree Car Street Building Plant Land Wheel Vehicle Boat Clothing
+生活服务场所 停车场 中餐厅 临街院门 农林牧渔基地 驾校 餐饮相关场所 体育休闲服务场所 公司 大众特约销售	Tree Car Street Wheel Palm Land Plant Boat
+学校 生活服务场所 住宅区 临街院门 停车场 驾校 交通地名 科教文化场所 建筑物门 政府机关	Tree Street Boat Car Wheel Vehicle Train Skyscraper Window Plant
+学校 生活服务场所 临街院门 住宅区 停车场 驾校 交通地名 科教文化场所 建筑物门 政府机关	Tree Street Train Window Building Boat Skyscraper Wheel Vehicle Car
+公司 临街院门 汽车配件销售 驾校 生活服务场所 科研机构 交通地名 培训机构 停车场 农林牧渔基地	Tree Street Skyscraper Building Car Wheel Boat Train Window Vehicle
+公司 临街院门 汽车配件销售 生活服务场所 科研机构 交通地名 驾校 培训机构 科教文化场所 停车场	Tree Street Boat Building Car Skyscraper Wheel Land Vehicle Window
+公司 汽车配件销售 临街院门 科研机构 培训机构 停车场 交通地名 住宅区 福特特约维修 科教文化场所	Street Tree Building Car Wheel Skyscraper Boat Vehicle Train Land
+生活服务场所 公司 临街院门 中餐厅 农林牧渔基地 美容美发店 停车场 培训机构 科研机构 公检法机构	Tree Skyscraper Window Plant Building Train Car Wheel Street Vehicle
+中餐厅 生活服务场所 美容美发店 科教文化场所 学校 临街院门 诊所 停车场 农林牧渔基地 洗浴推拿场所	Tree Skyscraper Window Street Car Wheel Building Vehicle Train Land
+中餐厅 公司 美容美发店 生活服务场所 银行 娱乐场所 临街院门 自动提款机 宾馆酒店 停车场	Window Car Skyscraper Wheel Building Plant Street Tree Vehicle Bus
+公司 中餐厅 生活服务场所 临街院门 银行 娱乐场所 美容美发店 停车场 宾馆酒店 自动提款机	Window Car Wheel Tree Skyscraper Plant Building Vehicle Street Train
+科教文化场所 农林牧渔基地 临街院门 生活服务场所 学校 中餐厅 停车场 产业园区 茶艺馆 住宅区	Tree Car Wheel Window Street Building Vehicle Skyscraper Train Boat
+临街院门 生活服务场所 住宅区 农林牧渔基地 科教文化场所 中餐厅 美容美发店 停车场 产业园区 楼宇	Tree Car Street Wheel Skyscraper Plant Vehicle Building Window Bird
+政府机关 美容美发店 生活服务场所 政府及社会团体相关 停车场 旅行社 临街院门 自动提款机 交通地名 住宅区	Tree Car Building Window Wheel Skyscraper Street House Clothing Vehicle
+中餐厅 生活服务场所 美容美发店 住宅区 医药保健销售店 临街院门 停车场 洗浴推拿场所 旅行社 电讯营业厅	Window Car Tree Building Wheel Vehicle Skyscraper Boat House Plant
+生活服务场所 中餐厅 美容美发店 临街院门 住宅区 医药保健销售店 彩票彩券销售点 政府机关 电讯营业厅 汽车养护/装饰	Window Tree Car Building Wheel Skyscraper Street Taxi House Boat
+中餐厅 生活服务场所 住宅区 娱乐场所 公司 政府机关 宾馆酒店 中介机构 摄影冲印店 维修站点	Tree Window Car Building Wheel Street Plant Bus House Van
+生活服务场所 宾馆酒店 中餐厅 学校 中介机构 美容美发店 公司 专科医院 农林牧渔基地 自动提款机	Window Tree Building Plant Car Wheel Street Skyscraper Vehicle Land
+公司 中餐厅 娱乐场所 彩票彩券销售点 外国餐厅 农林牧渔基地 生活服务场所 美容美发店 餐饮相关场所 医药保健销售店	Window Tree Building Wheel Train Skyscraper Car Street Bus Footwear
+住宅区 停车场 临街院门 美容美发店 交通地名 培训机构 生活服务场所 政府机关 银行 事务所	Window Tree Building Car Wheel Train Vehicle Land Street
+政府机关 住宅区 临街院门 停车场 政府及社会团体相关 中餐厅 社会团体 生活服务场所 农林牧渔基地 公司	Street Window Car Building Chair Wheel Clothing Man Land Person
+政府机关 临街院门 停车场 社会团体 住宅区 中餐厅 政府及社会团体相关 公司 生活服务场所 农林牧渔基地	Street Chair Window Wheel Car Building Person Clothing Man Tree
+政府机关 中餐厅 政府及社会团体相关 社会团体 停车场 公司 临街院门 住宅区 生活服务场所 农林牧渔基地	Window Wheel Street Chair Car Clothing Train Building Human Shelf
+政府机关 中餐厅 停车场 社会团体 公司 住宅区 临街院门 政府及社会团体相关 农林牧渔基地 生活服务场所	Street Window Man Tree Clothing Person Building Wheel Office Computer
+政府机关 社会团体 中餐厅 科研机构 停车场 公司 临街院门 住宅区 农林牧渔基地 政府及社会团体相关	Window Street Clothing Tree Man Car Person Building Bottle Wheel
+社会团体 中餐厅 政府机关 停车场 科研机构 临街院门 住宅区 茶艺馆 公司 农林牧渔基地	Street Window Tree Wheel Car Clothing Man Building Person Human
+学校 停车场 住宅区 建筑物门 生活服务场所 运动场馆 风景名胜 临街院门 中餐厅 科研机构	Street Window Man Tree Clothing Person Office Bottle Building Airplane
+学校 建筑物门 住宅区 运动场馆 停车场 生活服务场所 风景名胜 临街院门 科研机构 中餐厅	Tree Window Wheel Building Car Street Land Vehicle House Plant
+停车场 风景名胜 学校 临街院门 住宅区 生活服务场所 中餐厅 宾馆酒店 建筑物门 运动场馆	Tree Car Skyscraper Wheel Boat Street Plant Building Window Train
+停车场 临街院门 住宅区 政府机关 宾馆酒店 农林牧渔基地 学校 培训机构 传媒机构 公司	Tree Car Window Skyscraper Plant Wheel Building Street Train
+停车场 临街院门 住宅区 生活服务场所 博物馆 中餐厅 科教文化场所 宾馆酒店 风景名胜 运动场馆	Tree Window Car Building House Plant Wheel Vehicle Land Boat
+社会团体 传媒机构 临街院门 政府机关 公交车站 住宅区 培训机构 科教文化场所 中餐厅 休闲场所	Tree Plant Building Car Flower Train House Billboard Wheel Street
+社会团体 临街院门 传媒机构 住宅区 政府机关 公交车站 风景名胜 风景名胜相关 培训机构 休闲场所	Tree Car Plant Land Street House Train Flower Skyscraper Building
+风景名胜 临街院门 政府机关 公园广场 停车场 住宅区 风景名胜相关 传媒机构 体育休闲服务场所 社会团体	Street Tree Window Wheel Car Building Cabinetry House Plant Land
+住宅区 学校 建筑物门 停车场 临街院门 政府机关 运动场馆 生活服务场所 图书馆 自动提款机	Window Street Man Clothing Office Person Human Tree Bottle Microphone
+综合医院 建筑物门 停车场 医药保健销售店 中餐厅 住宅区 医疗保健服务场所 临街院门 自动提款机 娱乐场所	Tree Skyscraper Building Car Wheel Street Window House Land Plant
+综合医院 建筑物门 停车场 医药保健销售店 中餐厅 住宅区 医疗保健服务场所 临街院门 自动提款机 娱乐场所	Tree Skyscraper Building Car Wheel Street Window House Land Plant
+综合医院 停车场 建筑物门 医药保健销售店 中餐厅 临街院门 培训机构 电讯营业厅 汽车服务相关 娱乐场所	Tree Skyscraper Window Building Plant Street House Car Train Wheel
+中餐厅 宾馆酒店 政府机关 临街院门 洗浴推拿场所 医药保健销售店 住宅区 美容美发店 交通地名 停车场	Tree Skyscraper Building Wheel Window Car Plant Street Land Vehicle
+中餐厅 政府机关 宾馆酒店 生活服务场所 临街院门 停车场 诊所 洗浴推拿场所 医药保健销售店 福特特约维修	Tree Window Skyscraper Building Street Boat Car Wheel Train Tower
+政府机关 中餐厅 临街院门 宾馆酒店 停车场 生活服务场所 地铁站 福特特约维修 娱乐场所 洗浴推拿场所	Skyscraper Tree Building Car Wheel Plant Street Window Tower Vehicle
+停车场 临街院门 福特特约维修 公司 政府机关 地铁站 汽车养护/装饰 大众特约销售 农林牧渔基地 生活服务场所	Tree Skyscraper Building Street Car Wheel Plant Vehicle Tower Train
+停车场 临街院门 福特特约维修 公司 政府机关 地铁站 汽车养护/装饰 大众特约销售 农林牧渔基地 生活服务场所	Tree Skyscraper Building Street Car Wheel Plant Vehicle Tower Train
+停车场 临街院门 公司 福特特约维修 汽车综合维修 地铁站 汽车养护/装饰 大众特约销售 公交车站 农林牧渔基地	Tree Skyscraper Street Building Car Window Wheel Boat Land Vehicle
+停车场 大众特约销售 公交车站 临街院门 公司 福特特约维修 地铁站 汽车综合维修 汽车养护/装饰 农林牧渔基地	Tree Street Skyscraper Car Wheel Building Plant Window Vehicle Land
+停车场 大众特约销售 公司 公交车站 临街院门 地铁站 汽车养护/装饰 农林牧渔基地 福特特约维修 汽车服务相关	Tree Skyscraper Street Building Window Car Plant Wheel Vehicle Land
+停车场 大众特约销售 公司 公交车站 临街院门 住宅区 地铁站 农林牧渔基地 生活服务场所 福特特约维修	Window Tree Street Building Skyscraper Wheel Car Vehicle
+停车场 大众特约销售 公司 临街院门 公交车站 住宅区 地铁站 农林牧渔基地 生活服务场所 汽车养护/装饰	Tree Window Street Skyscraper Building Car Train Airplane Vehicle Land
+停车场 临街院门 公司 公交车站 住宅区 生活服务场所 大众特约销售 农林牧渔基地 汽车养护/装饰 培训机构	Skyscraper Tree Window Building Street Wheel Car Train Plant Land
+临街院门 停车场 生活服务场所 住宅区 公交车站 大众特约销售 汽车养护/装饰 公司 农林牧渔基地 汽车服务相关	Tree Window Skyscraper Street Wheel Car Building Plant Boat Land
+中餐厅 美容美发店 生活服务场所 物流速递 临街院门 住宅区 医药保健销售店 茶艺馆 汽车服务相关 汽车养护/装饰	Window Tree Skyscraper Street Building Plant Car Vehicle Land Clothing
+中餐厅 生活服务场所 医药保健销售店 美容美发店 物流速递 临街院门 茶艺馆 汽车服务相关 住宅区 福特特约维修	Window Tree Skyscraper Street Plant Building Boat Car Wheel Land
+中餐厅 医药保健销售店 临街院门 生活服务场所 汽车服务相关 福特特约维修 茶艺馆 美容美发店 物流速递 汽车养护/装饰	Window Tree Street Building Skyscraper Wheel Car Land Clothing Tower
+中餐厅 生活服务场所 医药保健销售店 住宅区 临街院门 汽车服务相关 福特特约维修 茶艺馆 公交车站 综合医院	Window Tree Building Street Wheel Plant Skyscraper Car Vehicle Land
+中餐厅 生活服务场所 医药保健销售店 住宅区 临街院门 汽车服务相关 福特特约维修 茶艺馆 公交车站 综合医院	Window Tree Building Street Wheel Plant Skyscraper Car Vehicle Land
+中餐厅 生活服务场所 住宅区 医药保健销售店 临街院门 汽车服务相关 福特特约维修 茶艺馆 政府机关 公交车站	Window Tree Street Skyscraper Building Wheel Car Land Vehicle Tower
+临街院门 汽车服务相关 住宅区 中餐厅 停车场 维修站点 生活服务场所 旅馆招待所 美容美发店 公交车站	Tree Window Street Building Plant Skyscraper Car Wheel Land Convenience
+临街院门 中餐厅 美容美发店 驾校 住宅区 洗浴推拿场所 停车场 诊所 自动提款机 医疗保健服务场所	Tree Skyscraper Street Car Wheel Building Vehicle Boat Plant Land
+生活服务场所 美容美发店 临街院门 停车场 运动场馆 住宅区 中餐厅 公交车站 汽车养护/装饰 学校	Skyscraper Wheel Window Car Street Tree Building Vehicle Tower Boat
+美容美发店 临街院门 生活服务场所 中餐厅 住宅区 物流速递 停车场 运动场馆 洗浴推拿场所 学校	Tree Skyscraper Wheel Street Car Building Window Land Vehicle Tower
+美容美发店 临街院门 生活服务场所 物流速递 中餐厅 住宅区 停车场 洗浴推拿场所 运动场馆 学校	Skyscraper Wheel Tree Street Car Window Building Boat Vehicle Drum
+美容美发店 中餐厅 临街院门 住宅区 物流速递 生活服务场所 医药保健销售店 公共厕所 洗浴推拿场所 门牌信息	Street Tree Airplane Wheel Car Vehicle Boat Tower Land Footwear
+中餐厅 美容美发店 临街院门 物流速递 住宅区 生活服务场所 门牌信息 医药保健销售店 公共厕所 洗浴推拿场所	Street Wheel Tree Car Boat Vehicle Window Building Airplane Train
+中餐厅 美容美发店 物流速递 住宅区 临街院门 生活服务场所 门牌信息 医药保健销售店 公共厕所 洗浴推拿场所	Street Car Wheel Building Window Tree Skyscraper Boat Land Tower
+中餐厅 美容美发店 住宅区 临街院门 物流速递 生活服务场所 门牌信息 医药保健销售店 公共厕所 洗浴推拿场所	Street Tree Airplane Car Wheel Boat Vehicle Skyscraper Building Window
+临街院门 住宅区 中餐厅 美容美发店 物流速递 门牌信息 医药保健销售店 生活服务场所 交通地名 公共厕所	Street Tree Boat Vehicle Window Airplane Building Wheel Tower Car
+住宅区 临街院门 中餐厅 美容美发店 物流速递 门牌信息 公司 医药保健销售店 生活服务场所 交通地名	Boat Tree Street Airplane Wheel Car Vehicle Bench Land Tower
+临街院门 住宅区 物流速递 中餐厅 门牌信息 美容美发店 公司 医药保健销售店 高尔夫相关 生活服务场所	Street Tree Wheel Boat Vehicle Car Airplane Tower Building Window
+生活服务场所 政府机关 临街院门 住宅区 高尔夫相关 诊所 中餐厅 医药保健销售店 交通地名 农林牧渔基地	Street Boat Car Wheel Tree Skyscraper Building Land Window Vehicle
+生活服务场所 政府机关 临街院门 住宅区 诊所 高尔夫相关 医药保健销售店 休闲场所 公司 社会团体	Street Tree Wheel Boat Vehicle Car Land Building Airplane Train
+生活服务场所 政府机关 临街院门 住宅区 诊所 高尔夫相关 医药保健销售店 休闲场所 公司 社会团体	Street Tree Wheel Car Window Boat Airplane Building Vehicle Land
+生活服务场所 临街院门 政府机关 住宅区 诊所 高尔夫相关 医药保健销售店 休闲场所 公司 社会团体	Tree Street Wheel Car Boat Airplane Land Vehicle Bird Building
+生活服务场所 门牌信息 政府机关 临街院门 住宅区 诊所 医药保健销售店 休闲场所 公司 社会团体	Street Tree Car Wheel Train Vehicle Boat Land Building Clothing
+生活服务场所 门牌信息 政府机关 临街院门 住宅区 诊所 医药保健销售店 社会团体 休闲场所 公司	Tree Street Car Boat Wheel Building Land Vehicle Bird Airplane
+生活服务场所 门牌信息 政府机关 临街院门 住宅区 诊所 社会团体 休闲场所 公司 学校	Tree Street Car Wheel Boat Bench Land Building Vehicle Window
+生活服务场所 门牌信息 政府机关 临街院门 住宅区 诊所 社会团体 休闲场所 公司 学校	Tree Street Car Wheel Boat Building Land Vehicle Train Airplane
+生活服务场所 门牌信息 政府机关 临街院门 住宅区 诊所 社会团体 休闲场所 公司 学校	Tree Street Car Wheel Boat Building Vehicle Land House Window
+生活服务场所 门牌信息 政府机关 临街院门 住宅区 社会团体 休闲场所 公司 诊所 学校	Tree Car Wheel Street Land Building Boat Airplane Clothing Vehicle
+生活服务场所 门牌信息 政府机关 临街院门 住宅区 休闲场所 社会团体 公司 学校 培训机构	Tree Street Car Wheel Boat Building Land Bird Traffic Vehicle
+生活服务场所 门牌信息 政府机关 临街院门 休闲场所 社会团体 住宅区 学校 培训机构 医药保健销售店	Tree Street Car Wheel Building Window Vehicle Boat House Land
+门牌信息 生活服务场所 政府机关 休闲场所 社会团体 培训机构 学校 临街院门 档案馆 住宅区	Tree Wheel Street Boat Building Car Vehicle Skyscraper Window Land
+门牌信息 生活服务场所 政府机关 休闲场所 社会团体 临街院门 培训机构 学校 档案馆 住宅区	Window Tree Building Car Street Wheel Boat Vehicle Land Skyscraper
+门牌信息 生活服务场所 休闲场所 临街院门 学校 社会团体 政府机关 住宅区 培训机构 诊所	Window Tree Wheel Street Building Car Train Vehicle Land Skyscraper
+门牌信息 生活服务场所 政府机关 停车场 临街院门 美容美发店 物流速递 休闲场所 诊所 驾校	Window Tree Street Wheel Train Building Car Skyscraper Vehicle House
+门牌信息 物流速递 政府机关 停车场 美容美发店 生活服务场所 临街院门 诊所 驾校 洗浴推拿场所	Window Wheel Tree Street Car Building Train Skyscraper House Clothing
+门牌信息 美容美发店 物流速递 政府机关 停车场 临街院门 诊所 生活服务场所 汽车服务相关 福特特约维修	Window Tree Street Boat Car Wheel Building Skyscraper Land Vehicle
+门牌信息 物流速递 生活服务场所 汽车服务相关 学校 中介机构 美容美发店 维修站点 政府机关 福特特约维修	Window Building Car Tree Wheel Street Train Boat Traffic Bus
+门牌信息 中餐厅 生活服务场所 停车场 物流速递 医药保健销售店 学校 维修站点 临街院门 交通地名	Tree Street Building Wheel Car Skyscraper Window Plant Land Vehicle
+门牌信息 中餐厅 生活服务场所 医药保健销售店 停车场 中介机构 美容美发店 临街院门 交通地名 学校	Tree Street Car Wheel Window Skyscraper Building Boat Vehicle Land
+门牌信息 生活服务场所 临街院门 住宅区 交通地名 驾校 汽车服务相关 汽车综合维修 农林牧渔基地 专卖店	Tree Wheel Street Car Building Window Skyscraper Train Boat Land
+门牌信息 生活服务场所 临街院门 住宅区 交通地名 驾校 汽车服务相关 汽车综合维修 农林牧渔基地 专卖店	Tree Wheel Street Car Building Window Skyscraper Train Boat Land
+门牌信息 生活服务场所 住宅区 临街院门 汽车服务相关 交通地名 驾校 汽车综合维修 专卖店 农林牧渔基地	Tree Window Wheel Building Boat Car Street Skyscraper Bus Vehicle
+门牌信息 生活服务场所 中餐厅 娱乐场所 住宅区 维修站点 医疗保健服务场所 临街院门 洗浴推拿场所 汽车服务相关	Street Tree Window Boat Car Wheel Building Plant House Train
+中餐厅 娱乐场所 洗浴推拿场所 维修站点 住宅区 生活服务场所 医疗保健服务场所 门牌信息 临街院门 交通地名	Window Tree Street Car Wheel Plant Building House Boat Skyscraper
+中餐厅 门牌信息 交通地名 住宅区 洗浴推拿场所 娱乐场所 美容美发店 临街院门 维修站点 生活服务场所	Street Window Tree Car Building Wheel Plant Skyscraper Boat Land
+中餐厅 门牌信息 交通地名 住宅区 洗浴推拿场所 娱乐场所 美容美发店 临街院门 维修站点 生活服务场所	Street Window Tree Car Building Wheel Plant Skyscraper Boat Land
+中餐厅 门牌信息 交通地名 住宅区 洗浴推拿场所 娱乐场所 美容美发店 临街院门 维修站点 生活服务场所	Street Window Tree Car Building Wheel Plant Skyscraper Boat Land
+门牌信息 交通地名 住宅区 停车场 政府机关 娱乐场所 临街院门 生活服务场所 洗浴推拿场所 美容美发店	Window Tree Street Building Boat Car Skyscraper Wheel House Land
+门牌信息 交通地名 住宅区 停车场 政府机关 娱乐场所 临街院门 生活服务场所 洗浴推拿场所 美容美发店	Window Tree Street Building Boat Car Skyscraper Wheel House Land
+政府机关 停车场 生活服务场所 美容美发店 交通地名 政府及社会团体相关 物流速递 汽车养护/装饰 中介机构 农林牧渔基地	Tree Street Window Car Building Wheel Plant Land Train Skyscraper
+政府机关 停车场 生活服务场所 美容美发店 交通地名 政府及社会团体相关 物流速递 汽车养护/装饰 中介机构 农林牧渔基地	Tree Street Window Car Building Wheel Plant Land Train Skyscraper
+驾校 交通地名 生活服务场所 汽车综合维修 地铁站 娱乐场所 福特特约维修 农林牧渔基地 中餐厅 政府机关	Tree Window Car Skyscraper Building Street Wheel Boat Train Tower
